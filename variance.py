@@ -12,7 +12,8 @@ outlets_files = {
     "AZT": "AZT Stock Comparison On 09-Sep-2025 5.Xlsx",
     "MSS": "MSS Stock Comparison On 08-Sep-2025 4.Xlsx",
     "LWN": "LWN Stock Comparison On 01-Sep-2025 4.Xlsx",
-    "BPS": "BPS Stock Comparison On 02-Sep-2025 7.Xlsx"
+    "BPS": "BPS Stock Comparison On 02-Sep-2025 7.Xlsx",
+    "SAD": "SAD Stock Comparison On 26-Aug-2025 9 (1).Xlsx"
 }
 
 # --- Sidebar: Select Outlet ---
