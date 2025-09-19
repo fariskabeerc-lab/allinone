@@ -9,11 +9,11 @@ st.set_page_config(page_title="Stock Variance Dashboard", layout="wide")
 # --- Outlets & Files ---
 outlets_files = {
     "Safa Oud Metha": "SAO Stock Comparison On 15-Sep-2025 1 (1).Xlsx",
-    "Azhar GT": "AZT Stock.Xlsx",
-    "Superstore": "MSS Stock.Xlsx",
-    "Liwan": "LWN Stock.Xlsx",
-    "Blue Pearl": "BPS Stock.Xlsx",
-    "Sahat": "SAD Stock.Xlsx"
+    "Azhar GT": "AZT Stock.xlsx",
+    "Superstore": "MSS Stock.xlsx",
+    "Liwan": "LWN Stock.xlsx",
+    "Blue Pearl": "BPS Stock.xlsx",
+    "Sahat": "SAD Stock.xlsx"
 }
 
 # --- Sidebar: Select Outlet ---
